@@ -16,3 +16,7 @@ An AI-powered app to generate interview questions for any job role, let the user
 - Google Gemini (Generative AI)
 - ReportLab (for PDF generation)
 
+![Image Alt](app_py.png)
+![Image Alt](generator_py.png)
+![Image Alt](result_py.png)
+![Image Alt](quiz.jpg)
